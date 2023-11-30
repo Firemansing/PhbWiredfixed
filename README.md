@@ -5,7 +5,7 @@ TUTORIAL :
 ========================================================================================================
 
 1.
-(en) - First, go to the plugins folder in your emulator
+(en) - First, go to the plugins folder in your emulator 
 (fr) - Dans un premier temps, allez dans le dossier plugins dans votre emulateur
 
 2.
